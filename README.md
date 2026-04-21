@@ -1,7 +1,7 @@
 # ⚡ Panga | Lead Developer & Visionary
 
 <p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeiar5txuucke7cracyysp6i4z5bzpvdyogxgkkv23rnxavw6mqm364" width="300" style="border-radius: 50%; box-shadow: 0 0 20px #d4af37;">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeihmzzhikxn6f4xctz6betwprnupyq4f6kw3233vwnagcomraiftoy" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(212, 175, 55, 0.5);">
 </p>
 
 ---
