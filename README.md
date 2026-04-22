@@ -1,13 +1,17 @@
-# ⚡ Panga | Lead Developer, Expert Trader & Content Creator
+# ⚡ Panga | Lead Developer, Expert Trader & Digital Artist
 
 <p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeibdu7tykrxvafzkivl2x3zoqisiahcawwvvwq773l2l7qg7ypoiqu" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(212, 175, 55, 0.6);">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeibdu7tykrxvafzkivl2x3zoqisiahcawwvvwq773l2l7qg7ypoiqu" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(212, 175, 55, 0.6);" alt="ZAARD INNOVATION - Panga Visionary">
 </p>
 
 ---
 
 ## 👑 Liderazgo y Trayectoria Comprobada
 Soy la mente maestra detrás de **ZAARD INNOVATION**. Con **más de 2 años de experiencia ininterrumpida en el ecosistema Binance**, he evolucionado de ser un trader experto a convertirme en un arquitecto de soluciones Web3. Mi compromiso con la comunidad es absoluto: transparencia, seguridad e innovación constante.
+
+### 🎨 Sello de Autor: 100% Creaciones Propias
+**Toda la identidad visual de ZAARD INNOVATION es obra de mi autoría.**
+Absolutamente **todas las imágenes, logotipos, banners, artes de NFT y material gráfico** que ves en este perfil, en la web oficial y en nuestras redes sociales son **creaciones originales mías**. Como artista digital, diseño cada píxel para asegurar una estética única, profesional y coherente con nuestra visión tecnológica. El diseño no se subcontrata; nace de la misma visión que crea el código.
 
 ### 🛠️ Ecosistema ZAARD: El Futuro es Hoy
 Cada día trabajo sin descanso para que ZAARD no sea solo un token, sino una revolución tecnológica:
@@ -38,6 +42,6 @@ Sigue el rastro de la innovación:
 
 ---
 <p align="center">
-  <i>"No estamos aquí para ver qué pasa, estamos aquí para hacer que pase. ZAARD es fuerza, Panga es la visión."</i><br>
-  <b>— Panga, Lead Visionary</b>
+  <i>"No estamos aquí para ver qué pasa, estamos aquí para hacer que pase. ZAARD es fuerza, Panga es la visión artística y técnica."</i><br>
+  <b>— Panga, Lead Visionary & Digital Artist</b>
 </p>
