@@ -1,7 +1,7 @@
 # ⚡ Panga | Lead Developer, Expert Trader & Digital Artist
 
 <p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeibdu7tykrxvafzkivl2x3zoqisiahcawwvvwq773l2l7qg7ypoiqu" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(212, 175, 55, 0.6);" alt="ZAARD INNOVATION - Panga Visionary">
+  <img src="https://cloudflare-ipfs.com/ipfs/bafybeibdu7tykrxvafzkivl2x3zoqisiahcawwvvwq773l2l7qg7ypoiqu" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(212, 175, 55, 0.6);" alt="ZAARD INNOVATION - Panga Visionary">
 </p>
 
 ---
@@ -11,7 +11,7 @@ Soy la mente maestra detrás de **ZAARD INNOVATION**. Con **más de 2 años de e
 
 ### 🎨 Sello de Autor: 100% Creaciones Propias
 **Toda la identidad visual de ZAARD INNOVATION es obra de mi autoría.**
-Absolutamente **todas las imágenes, logotipos, banners, artes de NFT y material gráfico** que ves en este perfil, en la web oficial y en nuestras redes sociales son **creaciones originales mías**. Como artista digital, diseño cada píxel para asegurar una estética única, profesional y coherente con nuestra visión tecnológica. El diseño no se subcontrata; nace de la misma visión que crea el código.
+Absolutamente **todas las imágenes, logotipos, banners, artes de NFT y material gráfico** que ves en este perfil, en la web oficial y en nuestras redes sociales son **creaciones originales mías**. Como artista digital, diseño cada píxel para asegurar una estética única, profesional y coherente con nuestra visión tecnológica. El diseño nace de la misma visión que crea el código.
 
 ### 🛠️ Ecosistema ZAARD: El Futuro es Hoy
 Cada día trabajo sin descanso para que ZAARD no sea solo un token, sino una revolución tecnológica:
@@ -26,8 +26,8 @@ Cada día trabajo sin descanso para que ZAARD no sea solo un token, sino una rev
 ## 🎥 Creador de Contenido & Estratega Financiero
 No solo opero los mercados, educo y lidero a través de la comunicación:
 
-* **🎬 Video Creator:** Producción de contenido audiovisual dinámico para explicar el futuro de las criptomonedas y los avances de ZAARD.
-* **📊 Publicador Activo en Binance:** Más de 2 años compartiendo análisis técnicos y visiones de mercado en **Binance Square**, consolidando una reputación de confianza y profesionalismo.
+* **🎬 Video Creator:** Producción de contenido audiovisual dinámico y animaciones para explicar el futuro de las criptomonedas y los avances de ZAARD.
+* **📊 Publicador Activo en Binance:** Más de 2 años compartiendo análisis técnicos y visiones de mercado en **Binance Square**, consolidando una reputación de confianza.
 * **📈 Trader Experto:** Especialista en lectura de mercados, gestión de riesgo y ejecución de estrategias de alto impacto.
 
 ---
