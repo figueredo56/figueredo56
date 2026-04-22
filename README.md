@@ -19,6 +19,7 @@ Fusiono el desarrollo **Blockchain** con la innovación digital para crear plata
 
 ### 🔗 Conecta con el Protocolo
 [X / Twitter](https://x.com/ZAARD_666) | [Binance Square](https://app.binance.com/uni-qr/cpro/PANGA)
+**Email de Contacto:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
 
 ---
 *"Innovación sin límites, seguridad sin compromisos."* - **Panga**
