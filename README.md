@@ -1,8 +1,7 @@
 # ⚡ Panga | Lead Developer, Expert Trader & Digital Artist
 
-<p align="center">
-  <img src="https://cloudflare-ipfs.com/ipfs/bafybeibdu7tykrxvafzkivl2x3zoqisiahcawwvvwq773l2l7qg7ypoiqu" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(212, 175, 55, 0.6);" alt="ZAARD INNOVATION - Panga Visionary">
-</p>
+![ZAARD INNOVATION](https://gateway.pinata.cloud/ipfs/bafybeihwgutss2majkvanadmm4rwbp6kpcgywebs3cgpgwdcs45ut3srd4)
+
 
 ---
 
