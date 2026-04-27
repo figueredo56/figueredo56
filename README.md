@@ -1,5 +1,28 @@
 # ⚡ Panga | Lead Developer, Expert Trader & Digital Artist
 
+# 🦅 ZAARD INNOVATION | The Future of Arcade & Blockchain
+
+¡Hola! Soy **Aracelis**, conocida en el ecosistema cripto como **Panga**. Soy la fundadora y desarrolladora principal del protocolo **ZAARD INNOVATION**. 
+
+Mi pasión es fusionar la nostalgia de los juegos arcade 2D con el poder disruptivo de la tecnología **Blockchain**. Como experta en trading con años de experiencia en Binance y desarrolladora de Smart Contracts, he creado este ecosistema para ofrecer transparencia, seguridad y, sobre todo, diversión real.
+
+---
+
+### 🚀 Sobre Mí & Mi Visión
+* **Creadora del Protocolo ZAARD:** Diseñé este ecosistema desde cero, enfocándome en la utilidad real del token.
+* **Dev de Corazón:** Especialista en **Solidity** y el framework **Phaser 3**.
+* **Compromiso Total:** He quemado el 10% del suministro y bloqueado el 97.60% de la liquidez. En mi proyecto, la seguridad de la comunidad es la prioridad.
+* **Identidad "Panga":** Representa la fuerza y la creatividad que da vida a cada línea de código en ZAARD.
+
+### 🎮 ZAARD Arcade Ecosystem
+Actualmente desarrollando una suite de juegos clásicos (incluyendo *Golden Run* y *Memory Game*) donde el esfuerzo de los jugadores tiene valor real.
+
+---
+
+---
+
+> "El fénix no solo renace, construye su propio cielo." — **Panga**
+
 ![ZAARD INNOVATION](https://gateway.pinata.cloud/ipfs/bafybeihwgutss2majkvanadmm4rwbp6kpcgywebs3cgpgwdcs45ut3srd4)
 
 
