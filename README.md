@@ -72,3 +72,7 @@ Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
   <i>"No estamos aquí para ver qué pasa, estamos aquí para hacer que pase. ZAARD es fuerza, Panga es la visión artística y técnica."</i><br>
   <b>— Panga, Lead Visionary & Digital Artist</b>
 </p>
+
+### Contacto Oficial
+Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
+[figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
