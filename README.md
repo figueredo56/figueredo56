@@ -23,7 +23,10 @@ Actualmente desarrollando una suite de juegos clásicos (incluyendo *Golden Run*
 
 > "El fénix no solo renace, construye su propio cielo." — **Panga**
 
-![ZAARD INNOVATION](https://gateway.pinata.cloud/ipfs/bafybeihwgutss2majkvanadmm4rwbp6kpcgywebs3cgpgwdcs45ut3srd4)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/CC_20260430_215529.png" alt="ZAARD Alerta" width="100%">
+</p>
+
 
 
 ---
