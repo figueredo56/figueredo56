@@ -1,5 +1,7 @@
 # ⚡ Panga | Lead Developer, Expert Trader & Digital Artist
 
+![logo Figueredo](https://raw.githubusercontent.com/figueredo56/ZAARD-Proyecto-Seguro/b82b132fe3d5f2c89d4f9736fb5c6dbdd00b6dd4/60%20sin%20t%C3%ADtulo_20260509182147_1.png)
+
 # 🦅 ZAARD INNOVATION | The Future of Arcade & Blockchain
 
 ¡Hola! Soy **Aracelis**, conocida en el ecosistema cripto como **Panga**. Soy la fundadora y desarrolladora principal del protocolo **ZAARD INNOVATION**. 
