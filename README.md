@@ -4,7 +4,7 @@
 
 # 🦅 ZAARD INNOVATION | The Future of Arcade & Blockchain
 
-¡Hola! Soy **Aracelis**, conocida en el ecosistema cripto como **Panga**. Soy la fundadora y desarrolladora principal del protocolo **ZAARD INNOVATION**. 
+¡Hola! Soy **ZAARD**, conocido en el ecosistema cripto como **Panga**. Soy la fundadora y desarrolladora principal del protocolo **ZAARD INNOVATION**. 
 
 Mi pasión es fusionar la nostalgia de los juegos arcade 2D con el poder disruptivo de la tecnología **Blockchain**. Como experta en trading con años de experiencia en Binance y desarrolladora de Smart Contracts, he creado este ecosistema para ofrecer transparencia, seguridad y, sobre todo, diversión real.
 
