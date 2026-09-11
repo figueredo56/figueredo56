@@ -11,7 +11,7 @@ Mi pasión es fusionar la nostalgia de los juegos arcade 2D con el poder disrupt
 ---
 
 ### 🚀 Sobre Mí & Mi Visión
-* **Creadora del Protocolo ZAARD:** Diseñé este ecosistema desde cero, enfocándome en la utilidad real del token.
+* **Creador del Protocolo ZAARD:** Diseñé este ecosistema desde cero, enfocándome en la utilidad real del token.
 * **Dev de Corazón:** Especialista en **Solidity** y el framework **Phaser 3**.
 * **Compromiso Total:** He quemado el 10% del suministro y bloqueado el 97.60% de la liquidez. En mi proyecto, la seguridad de la comunidad es la prioridad.
 * **Identidad "Panga":** Representa la fuerza y la creatividad que da vida a cada línea de código en ZAARD.
